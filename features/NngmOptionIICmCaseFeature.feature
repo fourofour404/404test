@@ -1,1 +1,1 @@
-Feature: nngmOptionIICmCase.feature
+Feature: nngmOptionIICmCase
